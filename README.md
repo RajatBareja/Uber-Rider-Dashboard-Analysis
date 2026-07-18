@@ -94,15 +94,15 @@ Every page shares a synced global filter panel:
 
 | Home | Overview |
 |:---:|:---:|
-| ![Home](screenshots/home.png) | ![Overview](screenshots/overview.png) |
+| ![Home](dashboard/home.png) | ![Overview](dashboard/overview.png) |
 
 | Vehicle | Revenue |
 |:---:|:---:|
-| ![Vehicle](screenshots/vehicle.png) | ![Revenue](screenshots/revenue.png) |
+| ![Vehicle](dashboard/vehicle.png) | ![Revenue](dashboard/revenue.png) |
 
 | Rider | Location |
 |:---:|:---:|
-| ![Rider](screenshots/rider.png) | ![Location](screenshots/location.png) |
+| ![Rider](dashboard/rider.png) | ![Location](dashboard/location.png) |
 
 </div>
 
